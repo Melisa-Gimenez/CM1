@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+h2{
+    color: rgb(8, 83, 43);
+    background-color: rgb(75, 252, 193);
+}
+p{
+    color: blueviolet;
+    background-color: rgb(108, 211, 177);
+}
+h3{ 
+    color: rgb(21, 103, 58);
+    background-color: rgb(97, 231, 186);
+}
+ol{ 
+    color:blueviolet ; 
+    background-color: rgb(127, 224, 192);
+}
+ul{
+    color: blueviolet;
+    background-color: rgb(152, 240, 210);
+}
