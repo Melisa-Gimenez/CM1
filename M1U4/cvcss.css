@@ -2,24 +2,31 @@ h1{
     color: blue;
     background-color: aqua;
     text-align: center;
+    font-size: 28px;
+    font-style: italic;
 }
 h2{
     color: rgb(8, 83, 43);
     background-color: rgb(75, 252, 193);
+    font-size: 26px;
 }
 p{
     color: blueviolet;
-    background-color: rgb(108, 211, 177);
+    background-color: aquamarine;
+    font-size: 22px;
 }
 h3{ 
     color: rgb(21, 103, 58);
     background-color: rgb(97, 231, 186);
+    font-size: 25px;
 }
 ol{ 
     color:blueviolet ; 
-    background-color: rgb(127, 224, 192);
+    background-color: aquamarine;
+    font-size: 22px;
 }
 ul{
     color: blueviolet;
-    background-color: rgb(152, 240, 210);
+    background-color:aquamarine;
+    font-size: 22px;
 }
